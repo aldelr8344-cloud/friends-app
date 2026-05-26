@@ -14,7 +14,7 @@
       "sizes": "512x512"
     }
   ],
-  "start_url": "./index.html",
+  "start_url": "my-dear-friends-app",
   "background_color": "#860C0C",
   "display": "standalone",
   "theme_color": "#000000",
